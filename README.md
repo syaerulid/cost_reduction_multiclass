@@ -8,7 +8,7 @@ This repository contains a project aimed at optimizing resource costs through th
 - [Installation](#installation)
 - Dataset : [[UCI Machine Learning](https://archive.ics.uci.edu/dataset/864/room+occupancy+estimation)]
 - [Methodology : Decision Trees with Tuning Parameter](#methodology)
-- [Results : Reduce Electricity Cost around $2.3 Millions for Unoccupied Rooms that being predicted](#results)
+- [Results : Reduce Electricity Cost around $2.3 Millions for Unoccupied Rooms that being predicted]
 - Interactive Code : [Google Colabs](https://colab.research.google.com/drive/1xsnQMAmhH1wya-Q9Ky1Yca0r1T_RkNeG?authuser=0#scrollTo=5i792moxcRgJ)
 - Medium Explanation : [Medium](https://medium.com/@syaerul/cost-reduction-through-decision-tree-based-room-occupancy-prediction-multiclass-aef06a8bba18)
 
