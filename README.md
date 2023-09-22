@@ -33,7 +33,7 @@ In today’s dynamic busines landscape, optimizing resource utilization has beco
 - **Recall:** Mean = 0.978, Std Dev = 0.005
 
 ### Cost Savings
-- Successfully reduced electricity costs by approximately $2.3 million by accurately predicting unoccupied rooms.
+- Successfully reduced electricity costs by approximately $2.3 million by accurately predicting 1600 unoccupied rooms.
 
 
 
